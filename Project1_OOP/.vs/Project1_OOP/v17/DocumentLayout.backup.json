@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\entitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:entitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\experienceorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:experienceorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\flamethrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:flamethrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\tankenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:tankenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\speedyenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:speedyenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\boomerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:boomerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\enemyabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:enemyabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\healthability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:healthability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\itemabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:itemabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\abilityabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:abilityabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\healthkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:healthkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\damageability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:damageability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\minigun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:minigun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\rifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:rifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\weaponabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:weaponabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\grenadelauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:grenadelauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\speedability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:speedability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|c:\\users\\hafiz\\onedrive\\desktop\\ooplab\\project1_oop\\damageboostitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA0E518-63D7-40E9-85E5-51E2ED4A9C18}|Project1_OOP.csproj|solutionrelative:damageboostitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hafiz\\Downloads\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TankEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\TankEnemy.cs",
+              "RelativeDocumentMoniker": "TankEnemy.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\TankEnemy.cs",
+              "RelativeToolTip": "TankEnemy.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:04:33.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\UIManager.cs",
+              "RelativeDocumentMoniker": "UIManager.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\UIManager.cs",
+              "RelativeToolTip": "UIManager.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwF0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:10:26.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Flamethrower.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Flamethrower.cs",
+              "RelativeDocumentMoniker": "Flamethrower.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Flamethrower.cs",
+              "RelativeToolTip": "Flamethrower.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:21:41.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAuwGgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:49:39.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExperienceOrb.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\ExperienceOrb.cs",
+              "RelativeDocumentMoniker": "ExperienceOrb.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\ExperienceOrb.cs",
+              "RelativeToolTip": "ExperienceOrb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:02:27.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Projectile.cs",
+              "RelativeDocumentMoniker": "Projectile.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Projectile.cs",
+              "RelativeToolTip": "Projectile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:45:49.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:09:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityManager.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\EntityManager.cs",
+              "RelativeDocumentMoniker": "EntityManager.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\EntityManager.cs",
+              "RelativeToolTip": "EntityManager.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwKUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:59:44.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Explosion.cs",
+              "RelativeDocumentMoniker": "Explosion.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Explosion.cs",
+              "RelativeToolTip": "Explosion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:32:55.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpeedyEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\SpeedyEnemy.cs",
+              "RelativeDocumentMoniker": "SpeedyEnemy.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\SpeedyEnemy.cs",
+              "RelativeToolTip": "SpeedyEnemy.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAEwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:08:23.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoomerEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\BoomerEnemy.cs",
+              "RelativeDocumentMoniker": "BoomerEnemy.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\BoomerEnemy.cs",
+              "RelativeToolTip": "BoomerEnemy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:11:50.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\EnemyAbstract.cs",
+              "RelativeDocumentMoniker": "EnemyAbstract.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\EnemyAbstract.cs",
+              "RelativeToolTip": "EnemyAbstract.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:05:04.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:38:06.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealthAbility.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\HealthAbility.cs",
+              "RelativeDocumentMoniker": "HealthAbility.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\HealthAbility.cs",
+              "RelativeToolTip": "HealthAbility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:19:13.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\ItemAbstract.cs",
+              "RelativeDocumentMoniker": "ItemAbstract.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\ItemAbstract.cs",
+              "RelativeToolTip": "ItemAbstract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:55:31.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AbilityAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\AbilityAbstract.cs",
+              "RelativeDocumentMoniker": "AbilityAbstract.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\AbilityAbstract.cs",
+              "RelativeToolTip": "AbilityAbstract.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:17:34.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Healthkit.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Healthkit.cs",
+              "RelativeDocumentMoniker": "Healthkit.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Healthkit.cs",
+              "RelativeToolTip": "Healthkit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:58:28.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "BasicEnemy.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\BasicEnemy.cs",
+              "RelativeToolTip": "BasicEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:05:43.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BossEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\BossEnemy.cs",
+              "RelativeDocumentMoniker": "BossEnemy.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\BossEnemy.cs",
+              "RelativeToolTip": "BossEnemy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:13:46.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DamageAbility.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\DamageAbility.cs",
+              "RelativeDocumentMoniker": "DamageAbility.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\DamageAbility.cs",
+              "RelativeToolTip": "DamageAbility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:17:57.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Shotgun.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Shotgun.cs",
+              "RelativeDocumentMoniker": "Shotgun.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Shotgun.cs",
+              "RelativeToolTip": "Shotgun.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:57:06.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Minigun.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Minigun.cs",
+              "RelativeDocumentMoniker": "Minigun.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Minigun.cs",
+              "RelativeToolTip": "Minigun.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:26:11.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Rifle.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Rifle.cs",
+              "RelativeDocumentMoniker": "Rifle.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Rifle.cs",
+              "RelativeToolTip": "Rifle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:16:35.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeaponAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\WeaponAbstract.cs",
+              "RelativeDocumentMoniker": "WeaponAbstract.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\WeaponAbstract.cs",
+              "RelativeToolTip": "WeaponAbstract.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwE4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:39:06.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pistol.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Pistol.cs",
+              "RelativeDocumentMoniker": "Pistol.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\Pistol.cs",
+              "RelativeToolTip": "Pistol.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:53:12.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SpeedAbility.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\SpeedAbility.cs",
+              "RelativeDocumentMoniker": "SpeedAbility.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\SpeedAbility.cs",
+              "RelativeToolTip": "SpeedAbility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:19:40.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GrenadeLauncher.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\GrenadeLauncher.cs",
+              "RelativeDocumentMoniker": "GrenadeLauncher.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\GrenadeLauncher.cs",
+              "RelativeToolTip": "GrenadeLauncher.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:35:39.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DamageBoostItem.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\DamageBoostItem.cs",
+              "RelativeDocumentMoniker": "DamageBoostItem.cs",
+              "ToolTip": "C:\\Users\\hafiz\\OneDrive\\Desktop\\OOPLAB\\Project1_OOP\\DamageBoostItem.cs",
+              "RelativeToolTip": "DamageBoostItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:00:48.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\hafiz\\Downloads\\Player.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Player.cs",
+              "ToolTip": "C:\\Users\\hafiz\\Downloads\\Player.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Player.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAqwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:46:39.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

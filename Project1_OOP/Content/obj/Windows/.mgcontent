@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/boss.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/bullet.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/bulletIcon.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/damageDrop.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/expDrop.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/fasto_move_0002.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/flamethrower_0005.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/flyingshoes.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/GameFont.spritefont</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/healthDrop.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/healthIcon.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/muscle_torso_1h.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/player.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/Project.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/speedyZombie.png</File>
+    <File>C:/Users/hafiz/OneDrive/Desktop/OOPLAB/Project1_OOP/Content/zombie_move_0002.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
